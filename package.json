@@ -1,0 +1,7 @@
+﻿{
+  "name": "opdesk-github-cart-fixture",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Broken cart line total helper for OpDesk GitHub diagnosis/repair tests"
+}
