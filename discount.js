@@ -4,7 +4,7 @@
  */
 export function applyPercentDiscount(price, percent) {
   // BUG: subtracts percent points instead of applying percent of price
-  return price - percent;
+  return price * (1 - percent / 100);
 }
 
 export function assertDiscountMath() {
