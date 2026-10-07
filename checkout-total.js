@@ -4,7 +4,7 @@
  */
 export function calculateLineTotal(unitPrice, quantity) {
   // BUG: ignores quantity
-  return unitPrice * 1;
+  return unitPrice * quantity;
 }
 
 export function assertCartMath() {
