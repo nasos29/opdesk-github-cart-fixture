@@ -3,13 +3,8 @@
  */
 
 export class FeePacket {
-  /** BUG: returns structured payload instead of numeric fee */
   static asAmount(feeAmount) {
-    return {
-      amount: feeAmount,
-      kind: "handling",
-      nested: { src: "opdesk_hard_g6" },
-    };
+    return feeAmount;
   }
 
   /** Red herring: correct fee float */
