@@ -1,0 +1,7 @@
+{
+  "name": "opdesk-github-fee-packet-fixture",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Multi-file fee packet bug for OpDesk GitHub hard E2E (G6)"
+}

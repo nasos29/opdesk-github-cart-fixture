@@ -1,0 +1,7 @@
+{
+  "name": "opdesk-github-multi-line-fixture",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Multi-line cart sum ignores second line for OpDesk GitHub hard E2E (G8)"
+}
