@@ -3,10 +3,7 @@
  */
 
 export function sumLines(lines) {
-  /** BUG: only first line counted */
-  if (!lines.length) return 0;
-  const first = lines[0];
-  return first.unitPrice * first.qty;
+  return hintLines(lines);
 }
 
 export function hintLines(lines) {
