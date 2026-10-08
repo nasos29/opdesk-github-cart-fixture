@@ -1,0 +1,7 @@
+{
+  "name": "opdesk-github-currency-label-fixture",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Multi-file currency label object-to-string bug for OpDesk GitHub hard E2E (G7)"
+}
